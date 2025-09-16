@@ -1,4 +1,4 @@
-# Weather Web
+# Weather Web 🌦️
 
 Este projeto foi desenvolvido para aprender:
 
